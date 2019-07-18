@@ -1,3 +1,3 @@
 # Website-layout
 
-blog website layout
+sample blog website layout
